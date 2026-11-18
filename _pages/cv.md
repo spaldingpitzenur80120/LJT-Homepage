@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 - Present
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 - 2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025 - Present: Research Intern
+  * MINIMAX
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - September 2024: Research Intern
+  * Tencent WXG
+  * Supervisor: Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2023 - December 2023: Research Intern
+  * Shanghai AI Lab
+  * Supervisor: Prof. Yu Cheng
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Machine Learning
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLM)
+* LLM Truthfulness and Interpretability
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**<br/>
+  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He<br/>
+  Arxiv, 2025. (*First author*)<br/>
+  Code: GitHub code repository
+
+* **On the Perception Bottleneck of VLMs for Chart Understanding**<br/>
+  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br/>
+  Arxiv, 2025. (*First author*)<br/>
+  Code: Vision4Chart (GitHub code repository)
+
+* **On the Universal Truthfulness Hyperplane Inside LLMs**<br/>
+  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He<br/>
+  EMNLP 2024. (*First author*)<br/>
+  Code: Universal_Truthfulness_Hyperplane (GitHub code repository)
+
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**<br/>
+  Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He<br/>
+  ICML 2024.
+
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**<br/>
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He<br/>
+  NeurIPS 2023.
+
+* **Composing Parameter-Efficient Modules with Arithmetic Operations**<br/>
+  Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He<br/>
+  NeurIPS 2023.
+
+Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
